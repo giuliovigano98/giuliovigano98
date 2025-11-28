@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on<br>Digital Sentinels v2 – real-time threat detection with explainable AI and EU AI Act compliance.<br>Preparing MILCOM paper submission.<br><br>I’m looking to collaborate on<br>Trustworthy AI for defence and security applications.<br>AI ethics, fairness and EU AI Act implementation.<br>Geopolitical NLP and diplomatic text analysis.<br>Energy forecasting with deep learning and digital twins.<br><br>I’m looking for help with<br>Edge deployment of large models on NVIDIA Jetson.<br>Formal robustness verification of neural networks.<br><br>I’m currently learning<br>Adversarial machine learning and model robustness.<br>EU defence funding programmes (EDF, EDIDP).<br>French (still in progress).<br><br>Ask me about<br>Real-time computer vision for defence.<br>MLOps in high-risk AI systems.<br>EU AI Act compliance and certification.<br>Bias in judicial AI (COMPAS).<br>Energy consumption forecasting with LSTMs.
+I’m currently working on<br>Digital Sentinels v2 – real-time threat detection with explainable AI and EU AI Act compliance.<br>Preparing MILCOM paper submission.
 
 
 ## Socials:
