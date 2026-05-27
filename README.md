@@ -1,6 +1,6 @@
 # About Me:
-AI Engineer / Solution AI Architect at Algoretico
-I’m currently working on<br> S.P.E.C.T.R.U.M (Digital Sentinels v2 – real-time threat detection with explainable AI and EU AI Act compliance.<br>Preparing MILCOM paper submission or patent).
+AI Engineer / Solution AI Architect at Algoretico || AI Expert at the European Fusion Association
+I’m currently working on<br> S.P.E.C.T.R.U.M (real-time threat detection with explainable AI and EU AI Act compliance.<br>Preparing MILCOM paper).
 
 
 ## Socials:
