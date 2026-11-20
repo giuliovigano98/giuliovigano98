@@ -1,5 +1,5 @@
 # About Me:
-AI Engineer / Solution AI Architect at Algoretico || AI Expert at the European Fusion Association || AI Specialist at Lagiste23
+Technical Analyst at Algoretico || AI Expert at the European Fusion Association || AI Specialist at Lagiste23
 
 
 ## Socials:
